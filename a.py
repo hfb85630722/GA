@@ -57,7 +57,7 @@ x1,history=SA(X,h,4)
 plt.plot(X,hv(X))
 plt.scatter(x1,h(x1),marker="x")
 plt.plot(history,hv(history))
-plt.show()#333333333333333333
+plt.show()#3444444444
 
 
 
